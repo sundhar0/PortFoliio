@@ -162,9 +162,9 @@ section {
 
 /* PROFILE SECTION */
 
-.profile-pic56{
+.profile-pic56 {
   border-radius: 50%;
-  border: black solid ;
+  border: black solid;
   object-fit: cover;
   width: 700px;
 }
@@ -440,6 +440,6 @@ footer p {
   text-align: center;
 }
 
-.project-img{
+.project-img {
   width: 250px;
 }
